@@ -25,7 +25,7 @@ Antes de começar, você precisa ter instalado em sua máquina:
 
 1. **Clone este repositório**
    ```bash
-   git clone https://github.com/DevSanttos/restassured-integration-tests
+   https://github.com/DevSanttos/restassured-integration-tests
 - Abra o projeto na sua IDE de preferência
 
 - Se estiver usando o IntelliJ ou Eclipse, escolha a opção de abrir um projeto Maven.
